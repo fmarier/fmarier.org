@@ -90,6 +90,10 @@ img {
   height: 375px;
 }
 
+#fullname-label {
+  display: none;
+}
+
 #portrait-image-spacer {
   height: 280px;
 }
