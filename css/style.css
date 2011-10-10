@@ -90,7 +90,7 @@ img {
   height: 375px;
 }
 
-#fullname-label {
+#fullname-label, #hidden-avatar {
   display: none;
 }
 
