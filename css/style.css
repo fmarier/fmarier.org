@@ -34,11 +34,13 @@ img {
 }
 
 #top-box {
+  background-color: #FFFFFF;
   background-color: rgba(255,255,255,0.6);
   height: 380px;
 }
 
 #bottom-box {
+  background-color: #000000;
   background-color: rgba(0,0,0,0.8);
   color: #FFFFFF;
 }
@@ -108,6 +110,7 @@ img {
 }
 
 #coding-column, #writing-column, #projects-column {
+  background-color: #3C3C3C;
   background-color: rgba(60,60,60,0.9);
   border-radius: 10px;
   -moz-border-radius: 10px;
