@@ -1,11 +1,11 @@
 #top-box {
-  background-color: #FFFFFF;
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#99FFFFFF', endColorstr='#99FFFFFF');
 }
 
 #bottom-box {
-  background-color: #000000;
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#CC000000', endColorstr='#CC000000');
 }
 
 #coding-column, #writing-column, #projects-column {
-  background-color: #3C3C3C;
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#E53C3C3C', endColorstr='#E53C3C3C');
 }
