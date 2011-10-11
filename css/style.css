@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Raleway";
-  src: url('../fonts/raleway_thin.otf') format('opentype');
+  src: url('../fonts/raleway_thin.eot?') format('embedded-opentype'), url('../fonts/raleway_thin.otf') format('opentype');
 }
 
 @font-face {
   font-family: "Junction";
-  src: url('../fonts/junction.otf') format('opentype');
+  src: url('../fonts/junction.eot?') format('embedded-opentype'), url('../fonts/junction.otf') format('opentype');
 }
 
 body {
