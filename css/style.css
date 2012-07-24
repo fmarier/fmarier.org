@@ -22,7 +22,6 @@ img {
 
 .rounded-corners {
   border-radius: 10px;
-  -moz-border-radius: 10px;
 }
 
 #main-box {
