@@ -4,7 +4,7 @@ Site: http://fmarier.org
 Contact: francois@fmarier.org
 Twitter: @fmarier
 Identica: @fmarier
-Location: Wellington, New Zealand
+Location: Auckland, New Zealand
 
 /* SITE */
 Standards: HTML5, CSS3
