@@ -1,0 +1,80 @@
+https://keybase.io/fmarier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fmarier.org
+  * I am fmarier (https://keybase.io/fmarier) on keybase.
+  * I have a public key with fingerprint 8C47 0B2A 0B31 568E 110D  4325 1628 1F2E 007C 98D1
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "8c470b2a0b31568e110d432516281f2e007c98d1",
+            "host": "keybase.io",
+            "key_id": "16281F2E007C98D1",
+            "uid": "51430d988a2c254c5d40f21ce1df3800",
+            "username": "fmarier"
+        },
+        "merkle_root": {
+            "ctime": 1399285494,
+            "hash": "af297aa2a5b746d58aafa6322ebf4d3a7c6ece787adb0a70faf6ee0c4a2720c5f2cc147b8badea73e776420578f9df5dab449156e0d41ef7f98ed3a8b0f6d7b0",
+            "seqno": 4654
+        },
+        "service": {
+            "hostname": "fmarier.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399287307,
+    "expire_in": 157680000,
+    "prev": "ed390bbe6e40c5e301800abd333f79e6457dcb9ed1481760878c493e2718e8e1",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVU3tQFVUcvmI6cCNlfJWFo26GZJc7Z59nl2lMRJlJAzVFUovL2d2z965wd6+7
+CwqCmIqBjU+GkcGykbHhEZGSSjM2o+IY+erhZKmJZSjKOI1hYqZAnWWs0f3r7Pl9
+v+983+98Z9szQz3eIeMSJ/o9xdXfDzndLXsWBo2nV1OyqRZSyaspJU/HhuOuDBTG
+VDKViwtlZGO/bk4yTBX7l9uTHmF8VAG2bN00CAr4WT9DlfhcuNus6UYQWxFLd7ko
+UeEgkBkEZJbmBRHTNFA5luFpgRFpjcEAQEUSVZpQhkzbeeJUapAzoKtkdxCfxswm
++FRJnOXi8wcLPM2xQJVEETEKw3MKr3JAY2gF06rGigC4QBtbjyxpYWTp2HLlhrGV
+m4cDlmkOelYc3UXQrCQxIs9JHBGE7BDpQRojQYQYxMuQE1ReREhDAsswWNY4lUVQ
+EbCCoQiRKgMEgYY0AWOgcIiBDFB4jVEUmoOyKCMVI8hiCAWOATwUNUnVeBXJHCeR
+4WAyGRprUJNETGhFGWiCCmXXgY1XGCaVzAk8V+L+WQW6gl3V7syetOY3rSDpiFim
+YypmHimEHCdiJ7uWncKIi1yJ5QDhaHRJArJuqOTGHr9SmkCfGAdkAfRReFVEt3BA
+dxE8FMhsAXAPwgWEkyiWgCxjAXPEMmYBTepIVlmW1aCEBY6HqiJLWKU5kYYCECFJ
+hsRiBtIiJrF4zCTRiYKE0taDBnLyLUyVVEQVP+UZ4vVow6LczAbGrPWQz+9J1G07
+H1tJWsSaYZgOcoh+229GsBEJRvyarjmhkGnZOIwMv4EdMZWEcSaTAmYOhnE2CeOs
+/8P4WLg83pi4/x5KUWacZ3Na18Dua1cq/zqV+WKSsPTc0opG+/lvE7ZelOsLo1fe
+vri0pHK7MubGNt83G6PLuw5syH2tKaWqbOyCjy6X3S2dMOUkRsEZJ18ed//c6Iz+
+LaVFTcz25qj1r3+ip391O+fmmg+7NlakTI3NOuhLm/Oq3TelObw9fv/BvUKxt+Gz
+EUdO9MxPbW9IrF/y452WxQ+WrMj4nfste/ywW7Fya2ptDAMujXl49XPxwQ/CjFFp
+6Q/7Z72TWHq99mpGfLgnq6rXuJEk7Xrvgj/2wOF77M8pYxOPrCry7zqT1dR4yVqX
+szecsH7hT3d/6Z8+72Zdq/Zu56T08/fseRP39CSoXMuqZWtbxDOnGtvHn+QWHWuF
+b3xaNbcRr+5vDvsS8nrLxO6ektZ8pujEhM7ubJ+UuSH3cv3xQ+H4gei+c3OXzKm5
+33noQOzOYm+f907bvr+PvbVFKgtlD3/QEOlsz+nYc3T05OAualO7ZAzP7Gp9/3xz
+6KWzdW2RaQH5aFZTqbG8oo6auvOLvutVozd7lzMPh57FUVtrDr25raUygDxosT7y
+n3nVF0ZEOa2/zh/7XE3b9B0vbK4eOXB/xfHa8vhyNin7g2s7Em8t2v/ltN6CjO/2
+gT2bnp3+8a2W9I7Db/+RUn+3RltTPmJBamfj7gvrJstFc9GRr/dZJyoHenOOdSwr
+uPJKqKPlbMzhZafvtMV1j/vz6qh/AQ==
+=9WtG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fmarier
