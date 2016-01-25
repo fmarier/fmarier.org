@@ -3,15 +3,15 @@
     "links": [
         {
             "rel": "http://webfinger.net/rel/avatar",
-            "href": "http://fmarier.org/img/francois_marier.jpg"
+            "href": "https://fmarier.org/img/francois_marier.jpg"
         },
         {
             "rel": "http://webfinger.net/rel/profile-page",
-            "href": "http://fmarier.org/"
+            "href": "https://fmarier.org/"
         },
         {
             "rel": "me",
-            "href": "http://fmarier.org/"
+            "href": "https://fmarier.org/"
         }
     ]
 }
