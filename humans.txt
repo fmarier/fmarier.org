@@ -1,10 +1,9 @@
 /* TEAM */
 Developer and designer: François Marier
-Site: http://fmarier.org
+Site: https://fmarier.org
 Contact: francois@fmarier.org
 Twitter: @fmarier
-Identica: @fmarier
-Location: Auckland, New Zealand
+Location: Vancouver, Canada
 
 /* SITE */
 Standards: HTML5, CSS3
