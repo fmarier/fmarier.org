@@ -127,15 +127,6 @@ img {
   text-transform: uppercase;
 }
 
-#organisations-box {
-  text-align: center;
-  padding: 10px;
-}
-
-#organisations-box img {
-  margin: 0 5px 0 5px;
-}
-
 #license-statement {
   text-align: left;
   font-size: 0.7em;
