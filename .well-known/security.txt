@@ -1,0 +1,5 @@
+Contact: mailto:francois@fmarier.org
+Expires: 2025-06-06T06:59:00.000Z
+Encryption: https://fmarier.org/francois_marier.asc
+Preferred-Languages: en, fr
+Canonical: https://fmarier.org/.well-known/security.txt
