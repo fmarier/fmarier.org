@@ -58,6 +58,7 @@ h1 {
 
 #contact-box img {
     max-width: 200px;
+    height: auto;
 }
 
 .linkedin {
