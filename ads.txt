@@ -1,1 +1,2 @@
 contact=ads@fmarier.org
+placeholder.example.com, placeholder, DIRECT, placeholder
